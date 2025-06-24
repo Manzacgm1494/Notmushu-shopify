@@ -47,7 +47,7 @@ var SMSBumpForm = {
                             "headerText": {
                                 "enabled": true,
                                 "displayName": "Header Text",
-                                "text": "Be a VIP. Join our text marketing newsletter.",
+                                "text": "Be a VIP. Suscribe to our newsletter to be in the know.",
                                 "color": {
                                     "r": 0,
                                     "g": 0,
@@ -70,7 +70,7 @@ var SMSBumpForm = {
                             "descriptionText": {
                                 "enabled": true,
                                 "displayName": "Description Text",
-                                "text": "Be in the know. Get the latest tips and tricks for the fashion industry first.",
+                                "text": "Be in the know. Get notified of all news, updates and exclusive deals.",
                                 "color": {
                                     "r": 0,
                                     "g": 0,
